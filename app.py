@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-st.image(r"C:\Users\HP\Downloads\images.jpeg",width=700)
+st.image(r"images.jpeg",width=700)
 st.title("RainFall Prediction 🌧️☔")
 
 with st.sidebar:
